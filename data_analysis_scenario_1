@@ -5,10 +5,14 @@ my target audience was:
 I was to trying to solve XXX or accomplish XXX, the impact on the customer bigger picture will be XXX
 
 questions to ask:
-1. XXX
+1. what is the quality of the data
+2. what are the trends in the data
+3. are there any biases to fix and how
 
 Resources required for the project:
-1. XXX
+dataset, notebook compute, input from stakeholders
 
 the deliverables of the project will be:
-1. XXX
+1. clean dataset
+2. visualizations
+3. statistical model/machine learning model
